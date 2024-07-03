@@ -15,3 +15,14 @@
  */
  @import 'bootstrap';
  
+ .center {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem {
+    width: 250px;
+    margin: auto;
+}
